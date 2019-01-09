@@ -36,3 +36,4 @@ Hint: The only way to move numbers around is by clicking on those numbers that a
 3. Run the program
 
 Note: `NumberPurzzle.pro` file is in YesCode-Number-Puzzle/NumberPurzzle/NumberPurzzle.pro
+NumberPurzzleScript file includes all other files' information and how to do a sample run on terminal
