@@ -1,8 +1,7 @@
 # Number Puzzle
+The program was written in C++ language using QT platform and QT Widget for the user interface. It was created in 5/5/2018.
 
 ## What is it?
-The program is written in C++ language using QT platform and QT Widget for the user interface. 
-
 The Number Puzzle provides the player with 8 numbers, placed randomly. The player's task is to organize those numbers in the **ascending order**. 
 
 Hint: The only way to move numbers around is by clicking on those numbers that are **adjacent to** the empty rectangle. The selected number will be switched with the empty rectangle. 
